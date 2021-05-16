@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Research at the intersection of machine learning, computer vision and natural language processing
 - 🎓 &nbsp; Computer Science at the Indian Institute of Technology, Kharagpur
-- 💼 &nbsp; Research internships at the SHI lab, University of Oregon and ATLAS group, CUHK (CERN)
+- 💼 &nbsp; Research internships at Amazon India, SHI lab -- University of Oregon and ATLAS group, CUHK (CERN)
 - ✍️ &nbsp; I like to teach and recently I have taken up blogging as a hobby
 
 <br/>
